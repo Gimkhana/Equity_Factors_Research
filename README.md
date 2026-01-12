@@ -6,19 +6,17 @@ Traditional symmetric GARCH(1,1) models, despite effectively capturing autocorre
 - (2) asymmetric shock responses
 
 **Methodology** 
-- Based on EDHEC Risk Institute paper (Hasaj, M. & Sherer, B., 2021; "Covid-19 and Smart-Beta: A Case Study on the Role of Sectors”. EDHEC-Risk Institute Working Paper., pp. 1-35.)
-- We analyse the statistical returns of MSCI US equity factors during the Covid-19 period on 374 trading days
-- We compare the results of volatility modeling using standard GARCH and EGARCH analysis.
-- S&P500 as US equity benchmark
-- Based on Pagano (2020) COVID-19 timeframe decomposition 
+- Initial reflexion of the project based on EDHEC Risk Institute paper (Hasaj, M. & Sherer, B., 2021; "Covid-19 and Smart-Beta: A Case Study on theRole of Sectors”. EDHEC-Risk Institute Working Paper., pp. 1-35.)
+- We analyse the behavior of factors volatility during the Covid-19 period across 374 trading days.
+- Tested on MSCI US equity factors (Size, Value, Quality, Momentum, Minimum Volatility) and using S&P 500 as the market aggregate
+- Used Pagano timeline taxonomy (2020) COVID-19 timeframe decomposition 
   
 **Insights**:
-Analysing five US equity factors (Size, Value, Quality, Momentum, Minimum Volatility) and the S&P 500 Index from November 2019 to December 2021, we found: 
 
 - (1) all factors exhibit significant asymmetric volatility drifts (γ = 0.388-0.554, p < 0.05), with defensive factors showing stronger asymmetry than Value
 - (2) GARCH systematically underpredicts tail volatility by 40-260 basis points during crisis peaks
 - (3) EGARCH reduces this misspecification by 20% when forecasting the Momentum factor and show overconfidence in prediction when assessing market aggregate (S&P 500) with statistically significant out-of-sample improvements (p < 0.001)
-- Defensive factors do not escape asymmetric responses challenges conventional portfolio diversification wisdom
+- The finding that defensive factors do not escape asymmetric responses challenges conventional portfolio diversification wisdom
 - The findings presented in this paper suggest practitioners consider alternative models to capture volatility such as EGARCH compared to standard Gaussian GARCH model
 
 **Technologies**: R, RStudio, rugarch 
