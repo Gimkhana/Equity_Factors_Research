@@ -1,5 +1,9 @@
 **Asymmetric Factor Volatility During COVID-19: Evidence for EGARCH over GARCH**
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+<!-- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) -->
+
 This paper documents a critical market inefficiency in factor-level volatility forecasting during systemic crises. 
 Traditional symmetric GARCH(1,1) models, despite effectively capturing autocorrelation dynamics, systematically misspecify factor-level risk through two mechanisms: 
 - (1) violation of normality assumptions creating extreme fat tails, and 
