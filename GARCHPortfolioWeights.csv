@@ -1,0 +1,7 @@
+Factor,Ticker,GARCH_Vol_Ann%,EqualWeight_%,VolParity_%,MinVar_%
+SPX,SPY,19.42,16.67,12.09,0.0
+Momentum,MTUM,20.22,16.67,11.62,0.0
+Value,VLUE,13.02,16.67,18.04,0.0
+Quality,QUAL,12.1,16.67,19.42,0.0
+Min_Vol,USMV,9.27,16.67,25.33,100.0
+Size,IWM,17.4,16.67,13.5,0.0

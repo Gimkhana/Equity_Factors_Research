@@ -1,0 +1,7 @@
+Factor,Ticker,Better_Model,Leverage_γ,Vol_Persist_G,HalfLife_days,MinVar_Weight_%
+SPX,SPY,EGARCH,-0.0997,0.9764,29.0,0.0
+Momentum,MTUM,EGARCH,-0.1364,0.976,28.5,0.0
+Value,VLUE,EGARCH,-0.1804,0.9768,29.5,0.0
+Quality,QUAL,EGARCH,-0.1807,0.9641,19.0,0.0
+Min_Vol,USMV,EGARCH,-0.1605,0.964,18.9,100.0
+Size,IWM,EGARCH,-0.1315,0.9662,20.1,0.0

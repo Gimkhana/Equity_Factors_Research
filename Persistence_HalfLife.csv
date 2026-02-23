@@ -1,0 +1,7 @@
+Factor,Ticker,GARCH_Persist,EGARCH_Persist,GARCH_HalfLife_days,EGARCH_HalfLife_days,EGARCH_Gamma
+Value,VLUE,0.9768,1.1754,29.5,inf,-0.1804
+SPX,SPY,0.9764,1.1184,29.0,inf,-0.0997
+Momentum,MTUM,0.976,1.177,28.5,inf,-0.1364
+Size,IWM,0.9662,1.1517,20.1,inf,-0.1315
+Quality,QUAL,0.9641,1.1743,19.0,inf,-0.1807
+Min_Vol,USMV,0.964,1.1706,18.9,inf,-0.1605
