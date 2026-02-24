@@ -1,9 +1,0 @@
-\beamer@sectionintoc {1}{Motivation \& Contribution}{3}{0}{1}
-\beamer@sectionintoc {2}{Data \& Stylized Facts}{6}{0}{2}
-\beamer@sectionintoc {3}{Volatility Modeling: GARCH vs EGARCH}{10}{0}{3}
-\beamer@sectionintoc {4}{Volatility Regimes \& Conditional Efficiency}{15}{0}{4}
-\beamer@sectionintoc {5}{Tail Risk Calibration: VaR Backtests}{19}{0}{5}
-\beamer@sectionintoc {6}{Portfolio Construction: Conditional Frontier Compression}{24}{0}{6}
-\beamer@sectionintoc {7}{COVID-19 as an Extreme-Volatility Case Study}{29}{0}{7}
-\beamer@sectionintoc {8}{Implications \& Conclusion}{32}{0}{8}
-\beamer@sectionintoc {9}{Appendix}{35}{1}{9}

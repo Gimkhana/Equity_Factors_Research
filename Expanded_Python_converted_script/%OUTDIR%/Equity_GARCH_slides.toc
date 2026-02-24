@@ -1,6 +1,0 @@
-\babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{A-1 Motivation \& Impact}{3}{0}{1}
-\beamer@sectionintoc {2}{B-2 Data \& Empirical Design}{5}{0}{2}
-\beamer@sectionintoc {3}{D-3 Core Results (Vol, Asymmetry, Tail Risk, Regimes)}{10}{0}{3}
-\beamer@sectionintoc {4}{C-4 Portfolio Construction Implications}{19}{0}{4}
-\beamer@sectionintoc {5}{E-5 Conclusion, Limits, Extensions}{24}{0}{5}
